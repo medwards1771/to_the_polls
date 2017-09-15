@@ -1,0 +1,5 @@
+[flake8]
+exclude =
+     .git,
+     __pycache__,
+     to_the_polls/settings.py
