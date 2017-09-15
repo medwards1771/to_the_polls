@@ -1,5 +1,8 @@
 [flake8]
+ignore =
+    F401
 exclude =
      .git,
      __pycache__,
-     to_the_polls/settings.py
+     to_the_polls/settings.py,
+     polls/migrations/0001_initial.py
