@@ -106,3 +106,6 @@ ENV/
 .mypy_cache/
 
 .vscode/
+
+# All temporary files
+tmp/
